@@ -1,0 +1,23 @@
+
+# IntelliJ IDEA
+.idea/
+
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Build output
+.next/
+dist/
+build/
+
+# Logs
+*.log
+
+# Operating system
+.DS_Store
+Thumbs.db
